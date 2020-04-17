@@ -11,7 +11,7 @@
     <title>A small form</title>
   </head>
   <body>
-  <form action="holaAmigos">
+  <form action="holaAmigos" method="post">
     <label for="fname">First name:</label><br>
     <input type="text" id="fname" name="fname" value="John"><br>
     <label for="lname">Last name:</label><br>
